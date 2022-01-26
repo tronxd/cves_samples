@@ -1,0 +1,7 @@
+{
+  "name": "twistcli_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
